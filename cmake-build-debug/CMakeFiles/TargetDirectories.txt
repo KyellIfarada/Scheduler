@@ -1,0 +1,3 @@
+/home/lorenzo/CLionProjects/IfaradaScheduler.c/cmake-build-debug/CMakeFiles/IfaradaScheduler_c.dir
+/home/lorenzo/CLionProjects/IfaradaScheduler.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lorenzo/CLionProjects/IfaradaScheduler.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
